@@ -24,3 +24,30 @@ tbc
 | Game Design     | Collaborative effort! |
 
 ---
+
+> If you're contributing, **pull before working**, and **push after closing Unity** to avoid merge conflicts!
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo  
+2. Open the folder with Unity Hub  
+3. Use Unity 6000.0.46f1 
+4. Make magic ✨
+
+---
+
+## 🛠️ Git & Collaboration Notes
+
+- `.gitignore` is set up to avoid committing temp/auto-generated Unity files
+- Please communicate any major file restructures
+- Avoid committing `.csproj`, `.sln`, `Library/`, `Temp/`, etc.
+- Use **branches** for big features if needed, or just work off `main` for speed
+
+---
+
+## 🌟 Credits
+
+Made with love for Pixel Game Jam 2025.  
+Thanks for playing 💡🕶️
