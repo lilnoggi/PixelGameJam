@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
     [Header("Components")]
     public Rigidbody2D rb;
     public BoxCollider2D groundCheck;
+    private Animator anim;
 
     [Header("Settings")]
     public LayerMask groundMask;
@@ -17,6 +18,11 @@ public class PlayerMovement : MonoBehaviour
     public bool grounded;
 
     float xInput;
+
+    void Start()
+    {
+        anim = GetComponentInChildren<Animator>();
+    }
 
     void Update()
     {
@@ -43,6 +49,11 @@ public class PlayerMovement : MonoBehaviour
 
     void Move()
     {
+        anim.SetFloat("Speed", Mathf.Abs(xInput));
+        bool idleState = Mathf.Abs(xInput) < 0.01f;
+        anim.SetBool("IsIdle", idleState);
+        Debug.Log("IsIdle " + idleState + " xInput: " + xInput);
+
         rb.linearVelocity = new Vector2(xInput * groundSpeed, rb.linearVelocity.y);
 
         // Flip sprite

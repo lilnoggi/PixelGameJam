@@ -191,7 +191,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 67652241}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6219c654955b2f3439ea8bfdf0ea0abc, type: 3}
+  m_Script: {fileID: 11500000, guid: 731beeb23bd29674eb211dac45783963, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 67652242}
@@ -199,9 +199,9 @@ MonoBehaviour:
   groundMask:
     serializedVersion: 2
     m_Bits: 128
-  groundSpeed: 1.5
+  groundSpeed: 3
   jumpForce: 5
-  groundDecay: 0.235
+  groundDecay: 0.2
   maxFallSpeed: -10
   grounded: 0
 --- !u!1 &156978602
@@ -501,6 +501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 500188977}
   - component: {fileID: 500188978}
+  - component: {fileID: 500188979}
   m_Layer: 6
   m_Name: Sprite
   m_TagString: Untagged
@@ -578,6 +579,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &500188979
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 500188976}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1998aec459600d540b2bce6b69225945, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -590,6 +613,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -715,6 +739,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ace5e02e2d8b642a360a5f1c94b436, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 67652243}
+  smoothSpeed: 0.125
+  offset: {x: 0, y: 0, z: -10}
 --- !u!1 &593176413
 GameObject:
   m_ObjectHideFlags: 0
