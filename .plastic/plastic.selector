@@ -1,4 +1,0 @@
-repository "Pixel Game Jam@MagicMani@cloud"
-  path "/"
-    br "/main"
-    co "/main"
