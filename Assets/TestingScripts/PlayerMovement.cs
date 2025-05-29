@@ -52,7 +52,7 @@ public class PlayerMovement : MonoBehaviour
         anim.SetFloat("Speed", Mathf.Abs(xInput));
         bool idleState = Mathf.Abs(xInput) < 0.01f;
         anim.SetBool("IsIdle", idleState);
-        Debug.Log("IsIdle " + idleState + " xInput: " + xInput);
+        //Debug.Log("IsIdle " + idleState + " xInput: " + xInput);
 
         rb.linearVelocity = new Vector2(xInput * groundSpeed, rb.linearVelocity.y);
 
