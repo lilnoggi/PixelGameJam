@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 612ed21aa2fc62d4b8275514cfffcac7
+=======
+guid: 4c75ab8192f33234b9b98cae65564320
+>>>>>>> parent of fb23a46 (Merge branch 'main' of https://github.com/lilnoggi/PixelGameJam into GameManager)
 TextureImporter:
   internalIDToNameTable:
   - first:
