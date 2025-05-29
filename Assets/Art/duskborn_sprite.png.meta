@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 612ed21aa2fc62d4b8275514cfffcac7
+=======
+guid: 4c75ab8192f33234b9b98cae65564320
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -280,11 +284,15 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     filterMode: 1
 =======
     filterMode: 0
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+    filterMode: 1
+>>>>>>> Stashed changes
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -298,11 +306,15 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   spritePixelsToUnits: 100
 =======
   spritePixelsToUnits: 64
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+  spritePixelsToUnits: 100
+>>>>>>> Stashed changes
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -326,11 +338,15 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     textureCompression: 1
 =======
     textureCompression: 0
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+    textureCompression: 1
+>>>>>>> Stashed changes
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -351,6 +367,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< Updated upstream
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -364,6 +381,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> Stashed changes
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -371,17 +390,23 @@ TextureImporter:
       name: duskborn_sprite_0
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,17 +425,23 @@ TextureImporter:
       name: duskborn_sprite_1
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,17 +460,23 @@ TextureImporter:
       name: duskborn_sprite_2
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,17 +495,23 @@ TextureImporter:
       name: duskborn_sprite_3
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 208
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 209
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,17 +530,23 @@ TextureImporter:
       name: duskborn_sprite_4
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 272
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 273
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,17 +565,23 @@ TextureImporter:
       name: duskborn_sprite_5
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,17 +600,23 @@ TextureImporter:
       name: duskborn_sprite_6
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,17 +635,23 @@ TextureImporter:
       name: duskborn_sprite_7
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -603,17 +670,23 @@ TextureImporter:
       name: duskborn_sprite_8
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 528
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 529
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,17 +705,23 @@ TextureImporter:
       name: duskborn_sprite_9
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 592
         y: 519
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 593
         y: 520
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,17 +740,23 @@ TextureImporter:
       name: duskborn_sprite_10
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 455
         width: 29
         height: 47
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 456
         width: 27
         height: 45
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,17 +775,23 @@ TextureImporter:
       name: duskborn_sprite_11
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 455
         width: 31
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 456
         width: 29
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,17 +810,23 @@ TextureImporter:
       name: duskborn_sprite_12
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 455
         width: 33
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 456
         width: 31
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,17 +845,23 @@ TextureImporter:
       name: duskborn_sprite_13
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 209
         y: 455
         width: 34
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 210
         y: 456
         width: 32
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -777,17 +880,23 @@ TextureImporter:
       name: duskborn_sprite_14
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 273
         y: 455
         width: 43
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 274
         y: 456
         width: 41
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,17 +915,23 @@ TextureImporter:
       name: duskborn_sprite_15
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 455
         width: 42
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 456
         width: 40
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -835,17 +950,23 @@ TextureImporter:
       name: duskborn_sprite_16
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 455
         width: 40
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 456
         width: 38
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -864,17 +985,23 @@ TextureImporter:
       name: duskborn_sprite_17
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 455
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 456
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -893,17 +1020,23 @@ TextureImporter:
       name: duskborn_sprite_18
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 391
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 392
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -922,17 +1055,23 @@ TextureImporter:
       name: duskborn_sprite_19
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 391
         width: 43
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 392
         width: 41
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,17 +1090,23 @@ TextureImporter:
       name: duskborn_sprite_20
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 391
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 392
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -980,17 +1125,23 @@ TextureImporter:
       name: duskborn_sprite_21
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 207
         y: 391
         width: 33
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 208
         y: 392
         width: 31
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1009,17 +1160,23 @@ TextureImporter:
       name: duskborn_sprite_22
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 271
         y: 391
         width: 31
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 272
         y: 392
         width: 29
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1038,17 +1195,23 @@ TextureImporter:
       name: duskborn_sprite_23
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 335
         y: 391
         width: 31
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 336
         y: 392
         width: 29
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1067,17 +1230,23 @@ TextureImporter:
       name: duskborn_sprite_24
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 391
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 392
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1096,17 +1265,23 @@ TextureImporter:
       name: duskborn_sprite_25
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 391
         width: 29
         height: 47
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 392
         width: 27
         height: 45
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1125,17 +1300,23 @@ TextureImporter:
       name: duskborn_sprite_26
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 327
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 328
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1154,17 +1335,23 @@ TextureImporter:
       name: duskborn_sprite_27
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 327
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 328
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1183,17 +1370,23 @@ TextureImporter:
       name: duskborn_sprite_28
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 327
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 328
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1212,17 +1405,23 @@ TextureImporter:
       name: duskborn_sprite_29
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 208
         y: 327
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 209
         y: 328
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1241,17 +1440,23 @@ TextureImporter:
       name: duskborn_sprite_30
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 272
         y: 327
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 273
         y: 328
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1270,17 +1475,23 @@ TextureImporter:
       name: duskborn_sprite_31
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 327
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 328
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1299,17 +1510,23 @@ TextureImporter:
       name: duskborn_sprite_32
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 327
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 328
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,17 +1545,23 @@ TextureImporter:
       name: duskborn_sprite_33
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 327
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 328
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1357,17 +1580,23 @@ TextureImporter:
       name: duskborn_sprite_34
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 528
         y: 327
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 529
         y: 328
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1386,17 +1615,23 @@ TextureImporter:
       name: duskborn_sprite_35
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 592
         y: 327
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 593
         y: 328
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1415,17 +1650,23 @@ TextureImporter:
       name: duskborn_sprite_36
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 656
         y: 327
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 657
         y: 328
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1444,17 +1685,23 @@ TextureImporter:
       name: duskborn_sprite_37
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 720
         y: 327
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 721
         y: 328
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1473,17 +1720,23 @@ TextureImporter:
       name: duskborn_sprite_38
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 263
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 264
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1502,17 +1755,23 @@ TextureImporter:
       name: duskborn_sprite_39
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 263
         width: 31
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 264
         width: 29
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1531,17 +1790,23 @@ TextureImporter:
       name: duskborn_sprite_40
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 263
         width: 33
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 264
         width: 31
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1560,17 +1825,23 @@ TextureImporter:
       name: duskborn_sprite_41
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 208
         y: 263
         width: 34
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 209
         y: 264
         width: 32
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1589,17 +1860,23 @@ TextureImporter:
       name: duskborn_sprite_42
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 272
         y: 263
         width: 36
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 273
         y: 264
         width: 34
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1618,17 +1895,23 @@ TextureImporter:
       name: duskborn_sprite_43
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 263
         width: 36
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 264
         width: 34
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1647,17 +1930,23 @@ TextureImporter:
       name: duskborn_sprite_44
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 263
         width: 34
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 264
         width: 32
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1676,17 +1965,23 @@ TextureImporter:
       name: duskborn_sprite_45
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 263
         width: 34
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 264
         width: 32
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1705,17 +2000,23 @@ TextureImporter:
       name: duskborn_sprite_46
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 528
         y: 263
         width: 31
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 529
         y: 264
         width: 29
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1734,17 +2035,23 @@ TextureImporter:
       name: duskborn_sprite_47
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 592
         y: 263
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 593
         y: 264
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1763,17 +2070,23 @@ TextureImporter:
       name: duskborn_sprite_48
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 656
         y: 263
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 657
         y: 264
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1792,17 +2105,23 @@ TextureImporter:
       name: duskborn_sprite_49
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 720
         y: 263
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 721
         y: 264
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1821,17 +2140,23 @@ TextureImporter:
       name: duskborn_sprite_50
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 199
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 200
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1850,17 +2175,23 @@ TextureImporter:
       name: duskborn_sprite_51
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 199
         width: 29
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 200
         width: 27
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1879,17 +2210,23 @@ TextureImporter:
       name: duskborn_sprite_52
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 199
         width: 29
         height: 50
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 200
         width: 27
         height: 48
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1908,17 +2245,23 @@ TextureImporter:
       name: duskborn_sprite_53
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 208
         y: 200
         width: 29
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 209
         y: 201
         width: 27
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1937,17 +2280,23 @@ TextureImporter:
       name: duskborn_sprite_54
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 272
         y: 199
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 273
         y: 200
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1966,17 +2315,23 @@ TextureImporter:
       name: duskborn_sprite_55
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 199
         width: 29
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 200
         width: 27
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1995,17 +2350,23 @@ TextureImporter:
       name: duskborn_sprite_56
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 199
         width: 29
         height: 50
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 200
         width: 27
         height: 48
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,17 +2385,23 @@ TextureImporter:
       name: duskborn_sprite_57
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 200
         width: 29
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 201
         width: 27
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2053,17 +2420,23 @@ TextureImporter:
       name: duskborn_sprite_58
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 135
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 136
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2082,17 +2455,23 @@ TextureImporter:
       name: duskborn_sprite_59
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 135
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 136
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2111,17 +2490,23 @@ TextureImporter:
       name: duskborn_sprite_60
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 135
         width: 37
         height: 50
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 136
         width: 35
         height: 48
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2140,17 +2525,23 @@ TextureImporter:
       name: duskborn_sprite_61
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 208
         y: 136
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 209
         y: 137
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2169,17 +2560,23 @@ TextureImporter:
       name: duskborn_sprite_62
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 272
         y: 135
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 273
         y: 136
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2198,17 +2595,23 @@ TextureImporter:
       name: duskborn_sprite_63
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 135
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 136
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2227,17 +2630,23 @@ TextureImporter:
       name: duskborn_sprite_64
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 135
         width: 37
         height: 50
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 136
         width: 35
         height: 48
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2256,17 +2665,23 @@ TextureImporter:
       name: duskborn_sprite_65
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 136
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 137
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2285,17 +2700,23 @@ TextureImporter:
       name: duskborn_sprite_66
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 71
         width: 29
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 72
         width: 27
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2314,17 +2735,23 @@ TextureImporter:
       name: duskborn_sprite_67
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 71
         width: 31
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 72
         width: 29
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2343,17 +2770,23 @@ TextureImporter:
       name: duskborn_sprite_68
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 71
         width: 33
         height: 50
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 72
         width: 31
         height: 48
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2372,17 +2805,23 @@ TextureImporter:
       name: duskborn_sprite_69
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 208
         y: 72
         width: 34
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 209
         y: 73
         width: 32
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2401,17 +2840,23 @@ TextureImporter:
       name: duskborn_sprite_70
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 272
         y: 71
         width: 43
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 273
         y: 72
         width: 41
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2430,17 +2875,23 @@ TextureImporter:
       name: duskborn_sprite_71
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 71
         width: 42
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 72
         width: 40
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2459,17 +2910,23 @@ TextureImporter:
       name: duskborn_sprite_72
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 71
         width: 40
         height: 50
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 72
         width: 38
         height: 48
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2488,17 +2945,23 @@ TextureImporter:
       name: duskborn_sprite_73
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 72
         width: 37
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 73
         width: 35
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2517,17 +2980,23 @@ TextureImporter:
       name: duskborn_sprite_74
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 16
         y: 7
         width: 37
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 17
         y: 8
         width: 35
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2546,17 +3015,23 @@ TextureImporter:
       name: duskborn_sprite_75
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 80
         y: 7
         width: 43
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 81
         y: 8
         width: 41
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2575,17 +3050,23 @@ TextureImporter:
       name: duskborn_sprite_76
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 144
         y: 7
         width: 37
         height: 50
+<<<<<<< Updated upstream
 =======
         x: 145
         y: 8
         width: 35
         height: 48
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2604,17 +3085,23 @@ TextureImporter:
       name: duskborn_sprite_77
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 208
         y: 8
         width: 33
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 209
         y: 9
         width: 31
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2633,17 +3120,23 @@ TextureImporter:
       name: duskborn_sprite_78
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 271
         y: 7
         width: 31
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 272
         y: 8
         width: 29
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2662,17 +3155,23 @@ TextureImporter:
       name: duskborn_sprite_79
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 336
         y: 7
         width: 31
         height: 48
+<<<<<<< Updated upstream
 =======
         x: 337
         y: 8
         width: 29
         height: 46
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2691,17 +3190,23 @@ TextureImporter:
       name: duskborn_sprite_80
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 400
         y: 7
         width: 29
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 401
         y: 8
         width: 27
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2720,17 +3225,23 @@ TextureImporter:
       name: duskborn_sprite_81
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
         x: 464
         y: 8
         width: 29
         height: 49
+<<<<<<< Updated upstream
 =======
         x: 465
         y: 9
         width: 27
         height: 47
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2749,11 +3260,15 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     spriteID: 
 =======
     spriteID: bb8b15bc69c829b40b7b42d4d89e1826
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+    spriteID: 
+>>>>>>> Stashed changes
     internalID: 0
     vertices: []
     indices: 
@@ -2762,6 +3277,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     nameFileIdTable: {}
 =======
@@ -2849,6 +3365,9 @@ TextureImporter:
       duskborn_sprite_81: 8537445515624020859
       duskborn_sprite_9: 2363068162109002502
 >>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+=======
+    nameFileIdTable: {}
+>>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
