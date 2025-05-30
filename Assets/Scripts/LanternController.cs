@@ -5,6 +5,8 @@ public class LanternController : MonoBehaviour
 {
     private Animator anim;
 
+    public GameObject lanternLightObject;
+
     // State tracking
     private bool lanternEquipped = false;
     private bool isWalking = false;
@@ -12,6 +14,10 @@ public class LanternController : MonoBehaviour
     void Awake()
     {
         anim = GetComponent<Animator>();
+
+        // safety check
+        if (lanternLightObject != null)
+            lanternLightObject.SetActive(false);
     }
 
     void Update()
@@ -51,12 +57,16 @@ public class LanternController : MonoBehaviour
     public void OnEquipComplete()
     {
         lanternEquipped = true;
+        if (lanternLightObject != null)
+            lanternLightObject.SetActive(true);
     }
 
     // Called by Animation Event at the end of unequip animation
     public void OnUnEquipComplete()
     {
         lanternEquipped = false;
+        if (lanternLightObject != null)
+            lanternLightObject.SetActive(false);
     }
 
     /// <summary>
