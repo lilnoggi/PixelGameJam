@@ -7,7 +7,9 @@ public class PillarSmall : MonoBehaviour
     public Transform lightSource;
     public float detectionRange = 3f;
     public float attackRange = 1.5f;
+    public float attackCooldown = 2f;
 
+    private float lastAttackTime = -Mathf.Infinity;
     private bool isAwake = false;
 
     void Update()
@@ -22,16 +24,23 @@ public class PillarSmall : MonoBehaviour
         anim.SetBool("LightInFront", lightInFront);
         anim.SetBool("PlayerInRange", playerInRange);
 
-        // Update internal state
-        if (lightInFront) isAwake = true;
-        if (!lightInFront) isAwake= false;
-
+        isAwake = lightInFront;
         anim.SetBool("IsAwake", isAwake);
+    
+        if (playerInRange && Time.time > lastAttackTime + attackCooldown)
+        {
+            anim.SetTrigger("Attack");
+            lastAttackTime = Time.time;
+        }
     }
 
     public void BitePlayer()
     {
         Debug.Log("CHOMP!");
-        // ins damage logic
+        PlayerHealth playerHealth = player.GetComponent<PlayerHealth>();
+        if (playerHealth != null)
+        {
+            playerHealth.TakeDamage(10);
+        }
     }
 }

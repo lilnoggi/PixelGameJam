@@ -19,8 +19,9 @@ public class PlayerHealth : MonoBehaviour
     {
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        UpdateLanternUI();
 
-        if (currentHealth < 0)
+        if (currentHealth <= 0)
         {
             Die();
         }
