@@ -7,7 +7,8 @@ public class AttackHitbox : MonoBehaviour
         PlayerHealth health = other.GetComponent<PlayerHealth>();
         if (health != null)
         {
-            health.TakeDamage(10);
+            Vector2 attackPos = transform.root.position;
+            health.TakeDamage(10, attackPos);
         }
     }
 }

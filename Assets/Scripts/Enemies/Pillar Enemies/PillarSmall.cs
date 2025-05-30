@@ -9,6 +9,7 @@ public class PillarSmall : MonoBehaviour
     public float attackRange = 1.5f;
     public float attackCooldown = 2f;
 
+    private Rigidbody2D rb;
     private float lastAttackTime = -Mathf.Infinity;
     private bool isAwake = false;
 
@@ -40,7 +41,7 @@ public class PillarSmall : MonoBehaviour
         PlayerHealth playerHealth = player.GetComponent<PlayerHealth>();
         if (playerHealth != null)
         {
-            playerHealth.TakeDamage(10);
+            playerHealth.TakeDamage(10, transform.position);
         }
     }
 }
