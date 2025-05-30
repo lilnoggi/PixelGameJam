@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.Rendering.Universal;
+using System.Collections;
 
 [RequireComponent(typeof(Animator))]
 public class LanternController : MonoBehaviour
@@ -6,6 +8,8 @@ public class LanternController : MonoBehaviour
     private Animator anim;
 
     public GameObject lanternLightObject;
+    public Light2D lanternLight;
+    public float fadeDuration = 0.5f;
 
     // State tracking
     private bool lanternEquipped = false;
@@ -18,6 +22,12 @@ public class LanternController : MonoBehaviour
         // safety check
         if (lanternLightObject != null)
             lanternLightObject.SetActive(false);
+    }
+
+    void Start()
+    {
+        if (lanternLight != null)
+            lanternLight.intensity = 0f;
     }
 
     void Update()
@@ -53,32 +63,63 @@ public class LanternController : MonoBehaviour
         }
     }
 
+    // Called by Animation Event early in the equip animation (not at the end)
+    public void OnEquipStart()
+    {
+        lanternLightObject.SetActive(true);
+        ShowLanternLight();  // starts fading light in gradually
+    }
+
+
     // Called by Animation Event at the end of the equip animation
     public void OnEquipComplete()
     {
         lanternEquipped = true;
+
         if (lanternLightObject != null)
             lanternLightObject.SetActive(true);
+
+        ShowLanternLight();
     }
+
 
     // Called by Animation Event at the end of unequip animation
     public void OnUnEquipComplete()
     {
         lanternEquipped = false;
-        if (lanternLightObject != null)
-            lanternLightObject.SetActive(false);
+        HideLanternLight();
     }
+
 
     public void ShowLanternLight()
     {
         if (lanternLightObject != null)
-            lanternLightObject.SetActive(true);
+            StartCoroutine(FadeLight(1f));
     }
 
     public void HideLanternLight()
     {
         if (lanternLightObject != null)
+            StartCoroutine(FadeLight(0f));
+    }
+
+    IEnumerator FadeLight(float targetIntensity)
+    {
+        float startIntensity = lanternLight.intensity;
+        float elapsed = 0f;
+
+        while (elapsed < fadeDuration)
+        {
+            elapsed += Time.deltaTime;
+            lanternLight.intensity = Mathf.Lerp(startIntensity, targetIntensity, elapsed / fadeDuration);
+            yield return null;
+        }
+
+        lanternLight.intensity = targetIntensity;
+
+        if (targetIntensity == 0f && lanternLightObject != null)
             lanternLightObject.SetActive(false);
+
     }
 
     /// <summary>

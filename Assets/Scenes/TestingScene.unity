@@ -1948,6 +1948,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lanternLightObject: {fileID: 601289322}
+  lanternLight: {fileID: 601289324}
+  fadeDuration: 0.5
 --- !u!114 &1387581814
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2335,7 +2337,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anim: {fileID: 1715290323}
   player: {fileID: 1387581811}
-  lightSource: {fileID: 0}
+  lightSource: {fileID: 601289323}
   detectionRange: 3
   attackRange: 1.5
 --- !u!95 &1715290323
