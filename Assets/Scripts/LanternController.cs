@@ -69,6 +69,18 @@ public class LanternController : MonoBehaviour
             lanternLightObject.SetActive(false);
     }
 
+    public void ShowLanternLight()
+    {
+        if (lanternLightObject != null)
+            lanternLightObject.SetActive(true);
+    }
+
+    public void HideLanternLight()
+    {
+        if (lanternLightObject != null)
+            lanternLightObject.SetActive(false);
+    }
+
     /// <summary>
     /// Checks if player is moving to update walk/idle state.
     /// </summary>
