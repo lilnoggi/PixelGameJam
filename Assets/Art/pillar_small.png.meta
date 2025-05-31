@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 809fd8c12188eb74294b10829b0b5048
+=======
 guid: e45fa9fe664e5c043816ce2ecb48e41a
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -97,7 +101,15 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
+    filterMode: 1
+=======
+<<<<<<< HEAD
+    filterMode: 1
+=======
     filterMode: 0
+>>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -111,7 +123,15 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+  spritePixelsToUnits: 100
+=======
+<<<<<<< HEAD
+  spritePixelsToUnits: 100
+=======
   spritePixelsToUnits: 64
+>>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -135,7 +155,15 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
+    textureCompression: 1
+=======
+<<<<<<< HEAD
+    textureCompression: 1
+=======
     textureCompression: 0
+>>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -156,6 +184,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+=======
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -169,6 +199,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -506,6 +537,17 @@ TextureImporter:
       name: pillar_small_15
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
+        x: 127
+        y: 0
+        width: 59
+        height: 60
+<<<<<<< HEAD
+=======
+=======
         x: 128
         y: 0
         width: 64
@@ -638,7 +680,15 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
+    spriteID: 
+=======
+<<<<<<< HEAD
+    spriteID: 
+=======
     spriteID: 7368f67d913f38b45a9012b52a48db9c
+>>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
     internalID: 0
     vertices: []
     indices: 
@@ -647,6 +697,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
+    nameFileIdTable: {}
+=======
+<<<<<<< HEAD
+    nameFileIdTable: {}
+=======
     nameFileIdTable:
       pillar_small_0: -6271802577744899383
       pillar_small_1: 4982920620311751593
@@ -669,6 +725,8 @@ TextureImporter:
       pillar_small_7: 2695150768416910957
       pillar_small_8: -973167804757405832
       pillar_small_9: 1052028796412994029
+>>>>>>> 2fef7d9511bf35595af119a2e8fd6728ce484a07
+>>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
