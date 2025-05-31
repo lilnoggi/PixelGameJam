@@ -93,9 +93,9 @@ If you're unsure, open a pull request or ask in the GitHub Discussions tab.
 
 ## 🌟 Credits
 
-| ![Mani](https://github.com/YOUR_USERNAME.png?size=50) | ![Toasty](https://github.com/TOASTY_USERNAME.png?size=50) | ![Egg_Head](https://github.com/EGGHEAD_USERNAME.png?size=50) |
-|:--:|:--:|:--:|
-| [Mani]([https://github.com/YOUR_USERNAME](https://github.com/lilnoggi)) | [Toasty](https://github.com/TOASTY_USERNAME) | [Egg_Head](https://github.com/EGGHEAD_USERNAME) |
+![Programmer: Mani](https://img.shields.io/badge/Programmer-Mani-blue)
+![Artist: Toasty](https://img.shields.io/badge/Artist-ToastyBread-purple)
+![Music: K-Groovy](https://img.shields.io/badge/Music-K--Groovy-orange)
 
 ---
 
