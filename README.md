@@ -95,7 +95,7 @@ If you're unsure, open a pull request or ask in the GitHub Discussions tab.
 
 | ![Mani](https://github.com/YOUR_USERNAME.png?size=50) | ![Toasty](https://github.com/TOASTY_USERNAME.png?size=50) | ![Egg_Head](https://github.com/EGGHEAD_USERNAME.png?size=50) |
 |:--:|:--:|:--:|
-| [Mani](https://github.com/YOUR_USERNAME) | [Toasty](https://github.com/TOASTY_USERNAME) | [Egg_Head](https://github.com/EGGHEAD_USERNAME) |
+| [Mani]([https://github.com/YOUR_USERNAME](https://github.com/lilnoggi)) | [Toasty](https://github.com/TOASTY_USERNAME) | [Egg_Head](https://github.com/EGGHEAD_USERNAME) |
 
 ---
 
