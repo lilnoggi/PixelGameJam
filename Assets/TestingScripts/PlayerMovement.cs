@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TestingPlayerMovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     [Header("Components")]
     public Rigidbody2D rb;

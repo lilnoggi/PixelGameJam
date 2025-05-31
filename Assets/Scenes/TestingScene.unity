@@ -131,12 +131,12 @@ GameObject:
   - component: {fileID: 67652242}
   - component: {fileID: 67652244}
   m_Layer: 6
-  m_Name: TestingPlayer
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!50 &67652242
 Rigidbody2D:
   serializedVersion: 5
@@ -753,6 +753,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+<<<<<<< HEAD
 --- !u!1 &422605179
 GameObject:
   m_ObjectHideFlags: 0
@@ -831,6 +832,8 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.23461203, y: 0.008358955}
   m_EdgeRadius: 0
+=======
+>>>>>>> origin/GameManager
 --- !u!1 &500188976
 GameObject:
   m_ObjectHideFlags: 0
@@ -1094,6 +1097,7 @@ MonoBehaviour:
   target: {fileID: 67652243}
   smoothSpeed: 0.125
   offset: {x: 0, y: 0, z: -10}
+<<<<<<< HEAD
 --- !u!1 &522928572
 GameObject:
   m_ObjectHideFlags: 0
@@ -1203,6 +1207,8 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.41948152, y: 0.72054243}
   m_EdgeRadius: 0
+=======
+>>>>>>> origin/GameManager
 --- !u!1 &593176413
 GameObject:
   m_ObjectHideFlags: 0
@@ -1846,11 +1852,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
 --- !u!1 &1235178484
-=======
---- !u!1 &1387581807
->>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1858,11 +1860,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 1235178486}
   - component: {fileID: 1235178485}
   m_Layer: 0
   m_Name: GameManager
+<<<<<<< HEAD
 =======
   - component: {fileID: 1387581811}
   - component: {fileID: 1387581810}
@@ -1874,23 +1876,19 @@ GameObject:
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
+=======
+  m_TagString: Untagged
+>>>>>>> origin/GameManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!114 &1235178485
 MonoBehaviour:
-=======
---- !u!95 &1387581808
-Animator:
-  serializedVersion: 7
->>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1235178484}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1900,6 +1898,7 @@ Animator:
   showDebugMessage: 1
   enableDebugKey: 0
 --- !u!4 &1235178486
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1387581807}
   m_Enabled: 1
@@ -2000,12 +1999,13 @@ Rigidbody2D:
   m_Constraints: 4
 --- !u!4 &1387581811
 >>>>>>> ae6d614e7db7a49d552a846b5922add66337fa07
+=======
+>>>>>>> origin/GameManager
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1235178484}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -2013,6 +2013,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1387581807}
   serializedVersion: 2
@@ -2025,6 +2026,8 @@ Transform:
   - {fileID: 422605180}
   - {fileID: 522928573}
   - {fileID: 601289323}
+=======
+>>>>>>> origin/GameManager
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1387581812
@@ -2980,8 +2983,13 @@ SceneRoots:
   m_Roots:
   - {fileID: 832940991}
   - {fileID: 619394802}
+<<<<<<< HEAD
   - {fileID: 1387581811}
   - {fileID: 1473069794}
   - {fileID: 99946549}
   - {fileID: 317923689}
   - {fileID: 1715290325}
+=======
+  - {fileID: 67652243}
+  - {fileID: 1870093769}
+>>>>>>> origin/GameManager

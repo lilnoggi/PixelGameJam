@@ -24,12 +24,11 @@ public class GameManager : MonoBehaviour
         DebugKey();
     }
 
-
-    // DebugKey method is used for pausing the game via F1 key (can only be enabled in the Unity Engine)
     private void DebugKey()
     {
         if (enableDebugKey && Input.GetKeyDown(KeyCode.F1))
         {
+            Debug.Log("dedada");
             if (currentGameState == GameState.PlayState)
             {
                 ChangeState(GameState.PauseState);
@@ -43,14 +42,11 @@ public class GameManager : MonoBehaviour
 
     public void ChangeState(GameState newGameState)
     {
-        // checks if the last Game state is the new one     if it is it will return and save us GPU power
         if (newGameState == currentGameState)
         {
             return;
         }
 
-
-        // adjusts the ingame Time to whatever state is the new one
         switch (newGameState)
         {
             case GameState.MenuState:
@@ -64,15 +60,11 @@ public class GameManager : MonoBehaviour
                 break;
         }
 
-
-        // Debug Message for state changes (can only be enabled in the Unity Engine)
         if (showDebugMessage)
         {
             Debug.Log("Changed Game State: " + previousGameState + " -> " + currentGameState);
         }
 
-
-        // adjust the current and previous game states
         previousGameState = currentGameState;
         currentGameState = newGameState;
     }
