@@ -92,11 +92,12 @@ If you're unsure, open a pull request or ask in the GitHub Discussions tab.
 ---
 
 ## 🌟 Credits
-![Contributors](https://img.shields.io/github/contributors/lilnoggi/PixelGameJam)
-![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/PixelGameJam)
-![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/PixelGameJam)
-![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/PixelGameJam)
 
+| ![Mani](https://github.com/YOUR_USERNAME.png?size=50) | ![Toasty](https://github.com/TOASTY_USERNAME.png?size=50) | ![Egg_Head](https://github.com/EGGHEAD_USERNAME.png?size=50) |
+|:--:|:--:|:--:|
+| [Mani](https://github.com/YOUR_USERNAME) | [Toasty](https://github.com/TOASTY_USERNAME) | [Egg_Head](https://github.com/EGGHEAD_USERNAME) |
+
+---
 
 Made with love for Pixel Game Jam 2025.  
 Thanks for playing 💡🕶️
