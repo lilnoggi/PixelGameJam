@@ -26,10 +26,6 @@ tbc
 
 ---
 
-> If you're contributing, **pull before working**, and **push after closing Unity** to avoid merge conflicts!
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repo  
@@ -72,6 +68,11 @@ tbc
 - MP3 / WAV / OGG (audio)
 
 ---
+
+## 📌 Contribution Guide
+
+Check out our [🛠️ How to Contribute](CONTRIBUTING.md) guide for step-by-step instructions on uploading sprites, sound effects, and music without breaking stuff!
+
 
 ## ▶️ How to Open the Project in Unity
 
