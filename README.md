@@ -92,6 +92,11 @@ If you're unsure, open a pull request or ask in the GitHub Discussions tab.
 ---
 
 ## 🌟 Credits
+![Contributors](https://img.shields.io/github/contributors/lilnoggi/PixelGameJam)
+![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/PixelGameJam)
+![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/PixelGameJam)
+![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/PixelGameJam)
+
 
 Made with love for Pixel Game Jam 2025.  
 Thanks for playing 💡🕶️
