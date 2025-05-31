@@ -30,7 +30,7 @@ tbc
 
 1. Clone the repo  
 2. Open the folder with Unity Hub  
-3. Use Unity **2022.3.x LTS**
+3. Use Unity 6.0 (6000.0.46f1)  
 4. Make magic ✨
 
 ---
