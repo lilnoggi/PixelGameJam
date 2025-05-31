@@ -94,6 +94,7 @@ If you're unsure, open a pull request or ask in the GitHub Discussions tab.
 ## 🌟 Credits
 
 ![Programmer: Mani](https://img.shields.io/badge/Programmer-Mani-blue)
+![Programmer: Mani](https://img.shields.io/badge/Programmer-Abodikt-blue)
 ![Artist: Toasty](https://img.shields.io/badge/Artist-ToastyBread-purple)
 ![Music: K-Groovy](https://img.shields.io/badge/Music-K--Groovy-orange)
 
