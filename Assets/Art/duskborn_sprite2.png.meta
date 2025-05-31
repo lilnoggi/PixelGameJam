@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 7fb4d2356b4fe9046913db9f6d9a3bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7077221240160499302
+    second: duskborn_sprite2_0
+  - first:
+      213: -8909360470914751735
+    second: duskborn_sprite2_1
+  - first:
+      213: -3084057257667948612
+    second: duskborn_sprite2_2
+  - first:
+      213: 8152962007352833288
+    second: duskborn_sprite2_3
+  - first:
+      213: -7417651022722442622
+    second: duskborn_sprite2_4
+  - first:
+      213: 6744050254539762357
+    second: duskborn_sprite2_5
+  - first:
+      213: 9036703239233306318
+    second: duskborn_sprite2_6
+  - first:
+      213: -8134556650511078876
+    second: duskborn_sprite2_7
+  - first:
+      213: -2120532374399208256
+    second: duskborn_sprite2_8
+  - first:
+      213: 3996644754424977899
+    second: duskborn_sprite2_9
+  - first:
+      213: -5529481081976393492
+    second: duskborn_sprite2_10
+  - first:
+      213: 8627674743515683965
+    second: duskborn_sprite2_11
+  - first:
+      213: -4853927399920473568
+    second: duskborn_sprite2_12
+  - first:
+      213: 4432217860368275239
+    second: duskborn_sprite2_13
+  - first:
+      213: -3406501079469791038
+    second: duskborn_sprite2_14
+  - first:
+      213: -5063794559884552994
+    second: duskborn_sprite2_15
+  - first:
+      213: 7217799181463478818
+    second: duskborn_sprite2_16
+  - first:
+      213: 2824212836640275322
+    second: duskborn_sprite2_17
+  - first:
+      213: 9051257964555238848
+    second: duskborn_sprite2_18
+  - first:
+      213: -8143435997807609390
+    second: duskborn_sprite2_19
+  - first:
+      213: -5763178005293306078
+    second: duskborn_sprite2_20
+  - first:
+      213: -2595386171424052466
+    second: duskborn_sprite2_21
+  - first:
+      213: -7520731263084843935
+    second: duskborn_sprite2_22
+  - first:
+      213: -5659245750491527939
+    second: duskborn_sprite2_23
+  - first:
+      213: 403950104105618582
+    second: duskborn_sprite2_24
+  - first:
+      213: -1686734992632679336
+    second: duskborn_sprite2_25
+  - first:
+      213: -6577955908506263494
+    second: duskborn_sprite2_26
+  - first:
+      213: -1168391876398963146
+    second: duskborn_sprite2_27
+  - first:
+      213: 3309717233705083462
+    second: duskborn_sprite2_28
+  - first:
+      213: -4727240497945383390
+    second: duskborn_sprite2_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duskborn_sprite2_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 327
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99426f57c8a8cd90800000000000000
+      internalID: -7077221240160499302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 327
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90328330bd79b5480800000000000000
+      internalID: -8909360470914751735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 327
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8cb1a34a3335d0800000000000000
+      internalID: -3084057257667948612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 327
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805758bdfb3252170800000000000000
+      internalID: 8152962007352833288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 327
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ad0daf1b53f0990800000000000000
+      internalID: -7417651022722442622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 309
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa93999fda79d50800000000000000
+      internalID: 6744050254539762357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 327
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece7f13b7b1d86d70800000000000000
+      internalID: 9036703239233306318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 327
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aeef833df3c1f80800000000000000
+      internalID: -8134556650511078876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 327
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c438316a0b5292e0800000000000000
+      internalID: -2120532374399208256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 263
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9dde0aa3fe67730800000000000000
+      internalID: 3996644754424977899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 263
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0fd8c90465343b0800000000000000
+      internalID: -5529481081976393492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 262
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c9cd4c778abb770800000000000000
+      internalID: 8627674743515683965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 263
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a643a3fb263acb0800000000000000
+      internalID: -4853927399920473568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 263
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727946e39a6628d30800000000000000
+      internalID: 4432217860368275239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 263
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e73f015da9b0d0800000000000000
+      internalID: -3406501079469791038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 263
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4968a4da9c9b9b0800000000000000
+      internalID: -5063794559884552994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 263
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2226c3f2d16ca2460800000000000000
+      internalID: 7217799181463478818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 263
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bba029c9e913720800000000000000
+      internalID: 2824212836640275322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 199
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd7db3c9278c9d70800000000000000
+      internalID: 9051257964555238848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 199
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d97c831b14bcfe80800000000000000
+      internalID: -8143435997807609390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 199
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe52983241500b0800000000000000
+      internalID: -5763178005293306078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 135
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bee4d27065bfbd0800000000000000
+      internalID: -2595386171424052466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 135
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c27a443cef0a790800000000000000
+      internalID: -7520731263084843935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 135
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4405159f15671b0800000000000000
+      internalID: -5659245750491527939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c823eba7e1b9500800000000000000
+      internalID: 403950104105618582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 71
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85478edf5738798e0800000000000000
+      internalID: -1686734992632679336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306d45e3f766b4a0800000000000000
+      internalID: -6577955908506263494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a9c067c909cfe0800000000000000
+      internalID: -1168391876398963146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 7
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642eaf5d94a7eed20800000000000000
+      internalID: 3309717233705083462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duskborn_sprite2_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eef1820d7756eb0800000000000000
+      internalID: -4727240497945383390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
